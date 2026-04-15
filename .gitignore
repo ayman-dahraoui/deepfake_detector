@@ -1,0 +1,11 @@
+venv/
+data/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+.cache/
+.vscode/
+Thumbs.db
+*.log
+.ipynb_checkpoints/
